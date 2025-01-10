@@ -1,1 +1,1 @@
-# sawaliya-krishi-seva-kendra
+# sawaliya-krishi-seva-kendra static webside
